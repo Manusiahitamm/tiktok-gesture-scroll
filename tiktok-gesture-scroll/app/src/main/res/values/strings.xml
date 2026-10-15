@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gesture Scroll</string>
+    <string name="accessibility_description">Menggulir layar berdasarkan gerakan tangan yang kamu aktifkan.</string>
+</resources>
